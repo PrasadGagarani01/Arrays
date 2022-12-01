@@ -1,4 +1,4 @@
-//Duplicate Zeros
+//1089. Duplicate Zeros
 //Time complexity:o(N);
 //Space complexity:o(1);
 class Solution {
